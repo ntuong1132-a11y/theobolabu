@@ -1,0 +1,16 @@
+{
+  "name": "sunwin-ai-taixiu",
+  "version": "1.0.0",
+  "description": "Sieu AI Tai Xiu - Sunwin - 30+ thuat toan, nguon du lieu qua HTTP polling API lich su",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
